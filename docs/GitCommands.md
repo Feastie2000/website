@@ -1,3 +1,5 @@
+# GIT COMMANDS
+
 | Command							     | Description																	   | Example                      |
 |--------------------------|-------------------------------------------------|------------------------------|  
 | git help								 | Get help on a command												   | $ git help push              |
