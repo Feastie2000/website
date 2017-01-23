@@ -36,3 +36,4 @@
 |git branch -a	           | List all branches	                             |$ git branch -a                      |
 |git checkout <br>	       | Check out remote branch and configure for push	 |$ git checkout fix-trademark         |
 |gh-pages	                 | Branch name for production website	             |$ git push -u origin gh-pages        |
+TEST
